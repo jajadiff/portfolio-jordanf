@@ -1,0 +1,51 @@
+.popup__overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup__content {
+  background-color: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  position: relative;
+}
+
+.popup__icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  color: #333;
+}
+
+.popup__icon:hover {
+  color: #f00;
+}
+
+.popup__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.popup__list__item {
+  margin: 0.5rem 0;
+}
+
+.popup__list__item a {
+  color: #007bff; 
+  text-decoration: none;
+}
+
+.popup__list__item a:hover {
+  text-decoration: underline; 
+}

@@ -1,0 +1,116 @@
+.about__container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  color: #00df9a;
+}
+
+.about__title {
+  font-size: 3rem;
+  margin: 2rem auto;
+  color: black;
+}
+
+.about__card__container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 2rem;
+}
+
+.about__card1 {
+  width: 25%;
+  min-height: 250px;
+  /* background-color: #00df9a; */
+  background-color: black;
+  border-radius: 8px;
+  border: 1px solid;
+  transition: transform 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.about__card2 {
+  width: 25%;
+  min-height: 250px;
+  /* background-color: #00df9a; */
+  background-color: black;
+  border-radius: 8px;
+  border: 1px solid;
+  transition: transform 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.about__card3 {
+  width: 25%;
+  min-height: 250px;
+  /* background-color: #00df9a; */
+  background-color: black;
+  border-radius: 8px;
+  border: 1px solid;
+
+  transition: transform 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+  /* border-color 0.5s ease; */
+}
+.about__card__content p {
+  color: #fff;
+}
+.about__card1:hover,
+.about__card2:hover,
+.about__card3:hover {
+  /* background-color: #00ff3773; */
+  transform: scale(1.02) translateY(-5px);
+}
+
+.about__card__content {
+  margin: 1rem;
+}
+.about__card__content__title {
+  /* font-family: "Electrolize", sans-serif;
+  margin: 1rem 0; */
+  font-family: "Electrolize", sans-serif;
+  margin: 1rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/***/
+
+@media screen and (max-width: 767px) {
+  .about__card1 {
+    width: 70%;
+  }
+  .about__card2 {
+    width: 70%;
+  }
+  .about__card3 {
+    width: 70%;
+  }
+  .about__card__container {
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .about__card1 {
+    width: 80%;
+  }
+  .about__card2 {
+    width: 80%;
+  }
+  .about__card3 {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .about__card1 {
+    width: 90%;
+  }
+  .about__card2 {
+    width: 90%;
+  }
+  .about__card3 {
+    width: 90%;
+  }
+}

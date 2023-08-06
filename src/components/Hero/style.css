@@ -1,0 +1,42 @@
+.hero__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: 90vh;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 1420px;
+}
+
+.hero__welcome {
+  text-transform: uppercase;
+  padding: 0.5rem;
+  font-weight: 700;
+  color: #00df9a;
+  font-family: "Electrolize", sans-serif;
+}
+
+.hero__title {
+  color: #fff;
+  font-size: 3rem;
+  margin: 1rem 8px;
+}
+
+.hero__typed__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  /* margin-top: 1rem; */
+  /* margin: 0; */
+}
+.hero__subtitle {
+  margin: 0;
+  color: #fff;
+  margin-right: 0.5rem;
+}
+.hero__subtitle__anim {
+  color: #ffffff85;
+  font-family: "Electrolize", sans-serif;
+}

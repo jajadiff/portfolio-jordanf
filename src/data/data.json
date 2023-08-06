@@ -1,0 +1,125 @@
+{
+  "navbar": ["Projet", "Skill", "About", "Contact"],
+  "welcome": "Bienvenue je suis",
+  "name": "Jordan Furneri",
+  "subtitle": "Développeur",
+  "subtitleAnim": "Front-End",
+  "titleProjects": "Projet",
+  "projects": [
+    {
+      "new": false,
+      "title": "Booki",
+      "description": "Dans le cadre dans ma formation, j'ai travailler sur le projet Booki qui est un site internet qui permet au usagers de trouver des hébergements et des activité dans la ville de leur choix. Ma mission consisté a intégrer l'interface du site avec du code HTML & CSS, le site est totalement responsive , une version mobile, tablette et desktop sont disponibles. ",
+      "shortdescription": "J'ai intégré le site Booki en HTML & CSS qui est un site pour rechercher des hébergements et activités. Compatibilité mobile, tablette et desktop assurée...",
+      "image": "./assets/booki/booki-logo.webp",
+      "sliderdesktop": [
+        "./assets/booki/booki-slide1.webp",
+        "./assets/booki/booki-slide2.webp",
+        "./assets/booki/booki-slide3.webp"
+      ],
+      "buttonlive": "Live Source",
+      "livelink": "https://jajadiff.github.io/Projet-Booki/",
+      "buttoncode": "Code Source",
+      "codelink": "https://github.com/jajadiff/Projet-Booki",
+      "skilltitle": "Compétences:",
+      "skill": ["HTML", "CSS"]
+    },
+    {
+      "new": false,
+      "title": "OhMyFood",
+      "description": "Ma mission pour le site OhMyFood a était de développer un site en mobile first, qui répertorie les menus de restaurants gastronomiques. De plus l'animation possède plusieurs animation crée avec SASS.",
+      "shortdescription": "Développement mobile-first du site OhMyFood répertoriant des menus gastronomiques et animations créées avec SASS...",
+      "image": "./assets/ohmyfood/ohmyfood-logo.webp",
+      "sliderdesktop": [
+        "./assets/ohmyfood/ohmyfood-slide1.webp",
+        "./assets/ohmyfood/ohmyfood-slide2.webp",
+        "./assets/ohmyfood/ohmyfood-slide3.webp"
+      ],
+      "buttonlive": "Live Source",
+      "livelink": "https://jajadiff.github.io/Projet-ohmyfood/",
+      "buttoncode": "Code Source",
+      "codelink": "https://github.com/jajadiff/Projet-ohmyfood",
+      "skilltitle": "Compétences:",
+      "skill": ["HTML", "SASS"]
+    },
+    {
+      "new": false,
+      "title": "Kasa",
+      "description": "Kasa est un site de location d’appartements entre particuliers depuis près de 10 ans maintenant. Ma mission a était de faire le site entièrement avec React, avec des composants réutilisables, gestions des évenements, utiliser React-router-dom pour les paramètres des routes.",
+      "shortdescription": "Kasa est un site de location d'appartements en React, avec des composants réutilisables, une gestion d'événements, et l'utilisation de React-router-dom pour la navigation..",
+      "image": "./assets/kasa/kasa-logo.webp",
+      "sliderdesktop": [
+        "./assets/kasa/kasa-slide1.webp",
+        "./assets/kasa/kasa-slide2.webp",
+        "./assets/kasa/kasa-slide3.webp",
+        "./assets/kasa/kasa-slide4.webp"
+      ],
+      "buttonlive": "Live Source",
+      "livelink": "https://jajadiff.github.io/p8-kasa/",
+      "buttoncode": "Code Source",
+      "codelink": "https://github.com/jajadiff/p8-kasa",
+      "skilltitle": "Compétences:",
+      "skill": ["React", "Javascript", "SASS"]
+    }
+  ],
+  "skillsectionTitle": "Skill",
+  "skillsection": [
+    "HTML",
+    "CSS",
+    "SASS",
+    "Javascript",
+    "React",
+    "Redux",
+    "Github",
+    "NodeJS",
+    "Swagger",
+    "Figma",
+    "MongoDB",
+    "SEO",
+    "Lighthouse",
+    "Jest"
+  ],
+  "aboutsectionTitle": "About",
+  "about": [
+    {
+      "abouttitle": "Mon parcours",
+      "aboutsubtitle": "Je suis un développeur web passionné de 25 ans, déterminé à transformer ma passion en métier. J'ai suivi une formation d'intégrateur web sur Openclassrooms pour approfondir mes compétences et créer des expériences en ligne captivantes."
+    },
+    {
+      "abouttitle": "Mes compétences",
+      "aboutsubtitle": " Pendant ma formation en tant qu'intégrateur web, j'ai acquis des compétences en HTML, CSS (y compris SASS), JavaScript. J'ai créé des sites web interactifs en utilisant ces technologies et exploré des bibliothèques populaires comme React pour des applications web modernes. J'ai également découvert des outils de gestion de projet tels que Notion et les méthodologies agiles comme Kanban pour une meilleure organisation des projets."
+    },
+    {
+      "abouttitle": "Titre 3",
+      "aboutsubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ipsam harum ad expedita quis ea fugiat ex? Eaque, asperiores quibusdam!"
+    }
+  ],
+  "formsectiontitle": "Contact",
+  "formname": "Name:",
+  "formemail": "Email:",
+  "formmessage": "Message:",
+  "formsend": "Envoyer !",
+  "formconfirm": " votre message a bien été envoyé !",
+  "footertitle": " © 2023 Jordan Furneri. All rights reserved.",
+  "footerlink": "https://github.com/jajadiff",
+  "footerbuildlink": "Website build",
+  "dependencetitle": "Dépendances",
+  "dependence": [
+    {
+      "name": "create-react-app",
+      "link": "https://www.npmjs.com/package/create-react-app"
+    },
+    {
+      "name": "@emailjs/browser",
+      "link": "https://www.npmjs.com/package/@emailjs/browser"
+    },
+    {
+      "name": "react-icons",
+      "link": "https://www.npmjs.com/package/react-icons"
+    },
+    {
+      "name": "react-typed",
+      "link": "https://www.npmjs.com/package/react-typed"
+    }
+  ]
+}

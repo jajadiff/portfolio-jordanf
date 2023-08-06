@@ -1,0 +1,28 @@
+.footer__container {
+  background-color: white;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.footer__content {
+  display: flex;
+  align-items: center;
+}
+.footer__title {
+  font-size: 1rem;
+  margin-right: 1rem;
+}
+
+.footer__build__link {
+  font-size: 1.2rem;
+  border-bottom: 2px solid #00df9a;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 360px) {
+  .footer__content {
+    margin: 0 2rem;
+  }
+}

@@ -1,0 +1,18 @@
+.cardgrid__container {
+  display: flex;
+  background-color: #efeeee;
+  flex-direction: column;
+}
+.grid__container {
+  margin: 2rem 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.project__title {
+  font-size: 3rem;
+  margin: 2rem auto;
+}
+
