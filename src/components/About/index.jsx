@@ -2,11 +2,13 @@ import React from "react";
 import "./style.css";
 import Data from "../../data/data.json";
 import { GiJourney, GiSkills } from "react-icons/gi";
+import { PiClockAfternoonBold } from "react-icons/pi";
 
 const About = () => {
   const iconMap = {
-    "Mon parcours": <GiJourney size={30} color="white" />,
+    "Ma présentation": <GiJourney size={30} color="white" />,
     "Mes compétences": <GiSkills size={30} color="white" />,
+    "La suite": <PiClockAfternoonBold size={30} color="white" />,
   };
   return (
     <div className="about__container">

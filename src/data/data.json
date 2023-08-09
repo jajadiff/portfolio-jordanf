@@ -82,16 +82,16 @@
   "aboutsectionTitle": "About",
   "about": [
     {
-      "abouttitle": "Mon parcours",
-      "aboutsubtitle": "Je suis un développeur web passionné de 25 ans, déterminé à transformer ma passion en métier. J'ai suivi une formation d'intégrateur web sur Openclassrooms pour approfondir mes compétences et créer des expériences en ligne captivantes."
+      "abouttitle": "Ma présentation",
+      "aboutsubtitle": "Je suis Jordan Furneri, un développeur web passionné de 25 ans, déterminé à transformer ma passion en métier. J'ai suivi une formation d'intégrateur web sur Openclassrooms pour approfondir mes compétences et créer des expériences en ligne captivantes."
     },
     {
       "abouttitle": "Mes compétences",
       "aboutsubtitle": " Pendant ma formation en tant qu'intégrateur web, j'ai acquis des compétences en HTML, CSS (y compris SASS), JavaScript. J'ai créé des sites web interactifs en utilisant ces technologies et exploré des bibliothèques populaires comme React pour des applications web modernes. J'ai également découvert des outils de gestion de projet tels que Notion et les méthodologies agiles comme Kanban pour une meilleure organisation des projets."
     },
     {
-      "abouttitle": "Titre 3",
-      "aboutsubtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ipsam harum ad expedita quis ea fugiat ex? Eaque, asperiores quibusdam!"
+      "abouttitle": "La suite",
+      "aboutsubtitle": "Je souhaite mettre en pratique les compétences acquises dans cette formation au service d'entreprise. Mais avant toute chose, je souhaite monter en compétence sur des sujets tels que des technologies back-end, UX UI Design car il est important pour moi d'avoir une compréhension complète d'un projet."
     }
   ],
   "formsectiontitle": "Contact",
