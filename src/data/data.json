@@ -26,6 +26,25 @@
     },
     {
       "new": false,
+      "title": "Nina Carducci",
+      "description": "J'ai optimisé le portfolio de Nina Carducci en réduisant la taille du code, en convertissant les images en format WebP pour une meilleure légèreté. J'ai amélioré l'accessibilité avec l'extension WaWe et mis en place une stratégie de SEO local pour un meilleur référencement. ",
+      "shortdescription": "J'ai optimisé le portfolio de Nina Carducci en réduisant la taille du code, en convertissant les images en format WebP pour une meilleure légèreté...",
+      "image": "./assets/ninacarducci/ninacarducci-logo.webp",
+      "sliderdesktop": [
+        "./assets/ninacarducci/ninacarducci-slide1.webp",
+        "./assets/ninacarducci/ninacarducci-slide2.webp",
+        "./assets/ninacarducci/ninacarducci-slide3.webp"
+      ],
+      "buttonlive": "Live Source",
+      "livelink": "https://ninacarducci.github.io/",
+      "buttoncode": "Code Source",
+      "codelink": "https://github.com/jajadiff/ninacarducci-portfolio",
+      "skilltitle": "Compétences:",
+      "skill": ["Javascript", "SEO", "Lighthouse"]
+    },
+
+    {
+      "new": false,
       "title": "OhMyFood",
       "description": "Ma mission pour le site OhMyFood a était de développer un site en mobile first, qui répertorie les menus de restaurants gastronomiques. De plus l'animation possède plusieurs animation crée avec SASS.",
       "shortdescription": "Développement mobile-first du site OhMyFood répertoriant des menus gastronomiques et animations créées avec SASS...",
